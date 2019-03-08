@@ -6,7 +6,7 @@
 }
 
 .layout-1{
-    background-color: #e3e3e3;
+    background-color:#e3e3e3;
 
 }
 
@@ -22,12 +22,17 @@
 
 .layout-1 #topHeader{
     background-color:red;
-
+    height: 50px;
+    width:auto;
+    text-align: center;
+    
+    
 }
 
 .layout-1 nav{
     background-color:blue;
-
+    text-align: center;
+    
 }
 
 .layout-1 section{
@@ -36,14 +41,19 @@
 
 .layout-1 #sectionHeader{
     background-color:yellow;
+    height:30px;
  }
 
 .layout-1 article{
     background-color:orange;
+    width:490px;
 }
 .layout-1 aside{
     background-color:purple;
-}
+    float:right;
+    width: 50px;
+    
+    }
 
 .layout-1 aside a{
     background-color:white;
