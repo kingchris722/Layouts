@@ -42,6 +42,7 @@
 .layout-1 #sectionHeader{
     background-color:yellow;
     height:30px;
+    width:490px;
  }
 
 .layout-1 article{
@@ -51,12 +52,19 @@
 .layout-1 aside{
     background-color:purple;
     float:right;
-    width: 50px;
+    width:119px;
+    height:90px;
+    margin-top:-138px;
+   
     
     }
 
 .layout-1 aside a{
     background-color:white;
+   float:left;
+   width:100px;
+   margin-top:10px;
+    
 }
 
 .layout-1 footer{
