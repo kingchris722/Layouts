@@ -7,6 +7,7 @@
 
 .layout-1{
     background-color:#e3e3e3;
+  
 
 }
 
@@ -23,7 +24,7 @@
 .layout-1 #topHeader{
     background-color:red;
     height: 50px;
-    width:auto;
+    width:600px;
     text-align: center;
     
     
@@ -32,6 +33,7 @@
 .layout-1 nav{
     background-color:blue;
     text-align: center;
+    width:600px;
     
 }
 
@@ -52,9 +54,11 @@
 .layout-1 aside{
     background-color:purple;
     float:right;
+    padding-bottom: 2px;
     width:119px;
     height:90px;
     margin-top:-138px;
+   
    
     
     }
@@ -62,8 +66,9 @@
 .layout-1 aside a{
     background-color:white;
    float:left;
-   width:100px;
+   width:150px;
    margin-top:10px;
+   text-align: center;
     
 }
 
@@ -72,10 +77,14 @@
 
 #topHeader2{
     background-color:red;
+    text-align: center;
+    height:50px;
+
 
 }
 .layout-2 nav{
     background-color:blue;
+    
 
 }
 
@@ -85,11 +94,18 @@
 
 #content{
     background-color:green;
-    height:20px;
+    padding:200px;
+
 }
 
 .article2{
-    background-color:yellow;
+    background-color: yellow;
+    padding:10px;
+    padding-left: 10px;
+   
+   
+  
+
 }
 
 .aside-content{
